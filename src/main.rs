@@ -7,5 +7,6 @@ fn main() {
     println!("{}", mul.to_string());
     let sum = utils::add_numbers(a, b);
     println!("{}", sum.to_string());
-
+    let book_name = utils::book_name();
+    println!("{}", book_name);
 }
