@@ -9,5 +9,5 @@ fn main() {
     println!("{}", sum.to_string());
     let book_name = utils::book_name();
     println!("{}", book_name);
-    print!("Новая ветка");
+    print!("Котики");
 }
